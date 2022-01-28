@@ -1,0 +1,4 @@
+### Ejecutar SASS
+
+    $ sass --watch input.scss output.css
+    $ sass --watch folder-input:folder-output --no-source-map
